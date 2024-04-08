@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nandFlex")(type "KiCad")(uri "${KIPRJMOD}/Symbols/nandFlex.kicad_sym")(options "")(descr ""))
+)
